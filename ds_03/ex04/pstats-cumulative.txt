@@ -1,0 +1,15 @@
+Thu Apr 17 17:50:10 2025    profile_output.prof
+
+         806897 function calls (782418 primitive calls) in 2.272 seconds
+
+   Ordered by: cumulative time
+   List reduced from 1986 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+    172/1    0.001    0.000    2.272    2.272 {built-in method builtins.exec}
+        1    0.000    0.000    2.272    2.272 financial.py:1(<module>)
+        1    0.000    0.000    1.856    1.856 financial.py:59(main)
+        1    0.000    0.000    1.855    1.855 financial.py:16(get_financial_data)
+        1    0.000    0.000    1.519    1.519 api.py:62(get)
+
+
